@@ -29,7 +29,7 @@ This repository contains all the certificates I earned by completing the 11 requ
 8. [Email Writing Skills]
    ➤ Clear and professional email communication
 
-9. [High Impact Presentations]  
+9. [High Impact Presentations]
    ➤ Presentation techniques and public speaking
 
 10. [Agile Scrum in Practice]
